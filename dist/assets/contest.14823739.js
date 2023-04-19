@@ -1,0 +1,1 @@
+import{m as e}from"./index.dcc0ffaa.js";function r(t){return e.get({url:"/contest/list",params:{pageSize:t.pageSize,pageNum:t.pageNum}})}function s(){return e.get({url:"/contest/running"})}function u(t){return e.get({url:"/contest/get",params:{contestId:t}})}export{r as a,s as c,u as g};

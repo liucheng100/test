@@ -1,0 +1,1 @@
+import{_ as e,o,c as r}from"./index.b6fd4dc1.js";const t={name:"Score",props:{},data(){return{}},methods:{},mounted(){}},s={class:"score"};function c(a,n,_,p,d,m){return o(),r("div",s," \u4F5C\u54C1\u8BC4\u5206 ")}var i=e(t,[["render",c]]);export{i as default};
